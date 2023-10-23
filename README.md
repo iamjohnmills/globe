@@ -1,4 +1,4 @@
-# Globe
+# Vector Earth 3D
 
 Made with JS + D3 + SVG
 
